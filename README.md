@@ -92,7 +92,4 @@ Outside tech, I enjoy reading novels 📖, painting and sketching 🖌️, liste
 
 ----
 
-<p align="center">
-  <img  src="https://raw.githubusercontent.com/ArielMauricio/ArielMauricio/main/resources/img/github-contribution-grid-snake.svg"
-    alt="example" />
-</p>
+
